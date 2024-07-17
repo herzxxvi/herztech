@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "@herzxxvi/zenithtech": "^1.1.4",
+    "blazetech": "^1.1.4",
+    "chadrich": "^1.1.4",
+    "cryptochristy": "^1.1.4",
+    "cryptoelbert": "^1.1.4",
+    "cybervolt": "^10.5.0",
+    "datanex": "^1.1.4",
+    "ethdevane": "^1.1.4",
+    "forgeinfinix": "^1.1.4",
+    "fusioncode": "^1.1.4",
+    "futureflex": "^1.1.4",
+    "herztech": "^10.5.0",
+    "karendev": "^1.1.4",
+    "mitchtea": "^1.1.4",
+    "niskala": "^1.1.4",
+    "novanex": "^1.1.4",
+    "pulsewave": "^1.1.4",
+    "puppeteer": "^22.10.0",
+    "salmonella": "^1.1.4",
+    "spacejhont": "^1.1.4",
+    "zenithtech": "^1.1.4"
+  },
+  "name": "longwayszx",
+  "version": "10.4.5",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herzxxvi/herztech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herzxxvi/herztech/issues"
+  },
+  "homepage": "https://github.com/herzxxvi/herztech#readme",
+  "description": ""
+}
