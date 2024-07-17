@@ -8,10 +8,6 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <title>YouTube Downloader</title>
       </head>
       <body>
-        <div className="abstract-background"></div>
-        <div className="splash"></div>
-        <div className="splash"></div>
-        <div className="splash"></div>
         {children}
       </body>
     </html>
