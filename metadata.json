@@ -1,7 +1,7 @@
 {
   "name": "herznode",
-  "website": "",
-  "description": "stake here ...",
+  "website": "https://holesky.eigenlayer.xyz/operator/0x83F19de72d808b058c96900959726BE7fff45dC3",
+  "description": "Herznode is a node operated by the user on the EigenLayer network using AVS Chainbase. This node plays a crucial role in verifying transactions and supporting network security, ensuring data integrity, and assisting in the consensus process. Herznode is a vital part of the network infrastructure, contributing to the reliability and efficiency of blockchain operations on EigenLayer.",
   "logo": "https://raw.githubusercontent.com/herzxxvi/herztech/main/herzlogo.png",
   "twitter": "https://x.com/herzmwn_agung"
 }
